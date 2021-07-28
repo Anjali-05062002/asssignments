@@ -1,0 +1,27 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:6
+[6]
+>>> 
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:56
+[56]
+>>> 
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:45 67 86 94
+[94, 86, 67, 45]
+>>> 
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:26 96 47 84 29 10 2 67 83
+[96, 84, 83, 67, 47, 29, 26, 10, 2]
+>>> 
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:
+ RESTART: D:/descending order reverse the list/descending order reverse the list.py 
+Enter values:1 15 86 93 75 27 67
+[93, 86, 75, 67, 27, 15, 1]
+The original list is : [1, 15, 86, 93, 75, 27, 67]
+The list after perfforming the remove operation is : [15, 86, 93, 75, 27, 67]
+>>> 
