@@ -1,0 +1,7 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+====== RESTART: D:/Python assignments/descending order revesre list.txt ======
+Enter values:89 45 1 26 74 37 67
+[89, 74, 67, 45, 37, 26, 1]
+>>> 
